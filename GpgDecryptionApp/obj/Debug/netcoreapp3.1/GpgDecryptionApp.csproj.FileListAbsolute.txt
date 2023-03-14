@@ -1,0 +1,38 @@
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.exe
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.deps.json
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.runtimeconfig.json
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.runtimeconfig.dev.json
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.dll
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.pdb
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.csproj.AssemblyReference.cache
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.AssemblyInfoInputs.cache
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.AssemblyInfo.cs
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\staticwebassets\GpgDecryptionApp.StaticWebAssets.Manifest.cache
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.RazorTargetAssemblyInfo.cache
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.dll
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.pdb
+C:\Users\Developer\OneDrive\Рабочий стол\repos\UP\uns---usage-api\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.genruntimeconfig.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.exe
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.deps.json
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.runtimeconfig.json
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.runtimeconfig.dev.json
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.dll
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\bin\Debug\netcoreapp3.1\GpgDecryptionApp.pdb
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.csproj.AssemblyReference.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.AssemblyInfoInputs.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.AssemblyInfo.cs
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.csproj.CoreCompileInputs.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\staticwebassets\GpgDecryptionApp.StaticWebAssets.Manifest.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.RazorTargetAssemblyInfo.cache
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.dll
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.pdb
+C:\Users\Developer\RiderProjects\app\GpgDecryptionApp\obj\Debug\netcoreapp3.1\GpgDecryptionApp.genruntimeconfig.cache
