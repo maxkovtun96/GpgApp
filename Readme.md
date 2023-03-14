@@ -1,3 +1,9 @@
+### GpgApp description
+
+A web .NET application for decryption GNU Privacy Guard (GnuPG, GPG) encrypted data.
+Used for data encrypted with symmetric encryption algorithms. 
+Tests succeed in the Docker container only.
+
 ### To test service locally
 Run the commands in ./app folder:
     
